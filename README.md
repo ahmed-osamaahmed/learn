@@ -1,2 +1,3 @@
 # learn
-bla bla bla
+Learning Github
+in smol time
