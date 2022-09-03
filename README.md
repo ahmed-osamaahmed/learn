@@ -1,3 +1,2 @@
 # learn
-Learning Github
-in smol time
+Learning Github in smoll time
